@@ -1,0 +1,3111 @@
+[
+   {
+      "province": {
+         "en": "Kampong Speu Province",
+         "kh": "ខេត្តកំពង់ស្ពឺ"
+      },
+      "district": [
+         {
+            "districtName": {
+               "en": "Samraong tong District",
+               "kh": "ស្រុកសំរោងសំរោងទង"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Basedth District: 15 Communes",
+               "kh": "ស្រុកបរសេដ្ឋ"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Kong Pisei District",
+               "kh": "ស្រុកគងពីសី"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Odongk District",
+               "kh": "ស្រុកឧដុង្គ"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Phnum Sruoch District",
+               "kh": "ស្រុកភ្នំស្រួច"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Thpong District",
+               "kh": "ស្រុកថ្ដង"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         },
+         {
+            "districtName": {
+               "en": "Aoral District",
+               "kh": "ស្រុកឳរ៉ាល់"
+            },
+            "commune": [
+               {
+                  "en": "Roleang Chak Commune",
+                  "kh": "ឃុំ រលាំងចក",
+                  "zipCode": "050101"
+               },
+               {
+                  "en": "Kahaeng cambodia",
+                  "kh": "ឃុំ កាហែង",
+                  "zipCode": "050102"
+               },
+               {
+                  "en": "khtum Krang Commune",
+                  "kh": "ឃុំ ខ្ទុំក្រាំង",
+                  "zipCode": "050103"
+               },
+               {
+                  "en": "Krang Amoil Commune",
+                  "kh": "ឃុំ ក្រាំងអំពិល",
+                  "zipCode": "050104"
+               },
+               {
+                  "en": "Pneay Commune",
+                  "kh": "ឃុំ ព្នាយ",
+                  "zipCode": "050105"
+               },
+               {
+                  "en": "Roleeang Kreul Commune",
+                  "kh": "ឃុំ រលាំងគ្រើល",
+                  "zipCode": "050106"
+               },
+               {
+                  "en": "Samraong Tong Commune",
+                  "kh": "ឃុំ សំរោងទង",
+                  "zipCode": "050107"
+               },
+               {
+                  "en": "Sambour Commune",
+                  "kh": "ឃុំ សំបូរ",
+                  "zipCode": "050108"
+               },
+               {
+                  "en": "Saen Dei Commune",
+                  "kh": "ឃុំ សែនដី",
+                  "zipCode": "050109"
+               },
+               {
+                  "en": "Skuh Commune",
+                  "kh": "ឃុំ ស្គុះ",
+                  "zipCode": "050110"
+               },
+               {
+                  "en": "Tang Krouch Commune",
+                  "kh": "ឃុំ តាំងក្រូច",
+                  "zipCode": "050111"
+               },
+               {
+                  "en": "Thummoda Ar Commune",
+                  "kh": "ឃុំ ធម្មតាអរ",
+                  "zipCode": "050112"
+               },
+               {
+                  "en": "Trapeang kong Commune",
+                  "kh": "ឃុំ ត្រពាំងគង",
+                  "zipCode": "050113"
+               },
+               {
+                  "en": "Tumpoar Meas Commune",
+                  "kh": "ឃុំ ទំព័រមាស",
+                  "zipCode": "050114"
+               },
+               {
+                  "en": "Voa Sar Commune",
+                  "kh": "ឃុំ វល្លិសរ",
+                  "zipCode": "050115"
+               },
+               {
+                  "en": "Basedth Commune",
+                  "kh": "ឃុំ បរសេដ្ឋ",
+                  "zipCode": "050201"
+               },
+               {
+                  "en": "Kat Phluk Commune",
+                  "kh": "ឃុំ កាត់ភ្លុក",
+                  "zipCode": "050202"
+               },
+               {
+                  "en": "Nitean Commune",
+                  "kh": "ឃុំ និទាន",
+                  "zipCode": "050203"
+               },
+               {
+                  "en": "Pheakdei Commune",
+                  "kh": "ឃុំ ភក្តី",
+                  "zipCode": "050204"
+               },
+               {
+                  "en": "Pheari Mean Chey Commune",
+                  "kh": "ឃុំ ភារីមានជ័យ",
+                  "zipCode": "050205"
+               },
+               {
+                  "en": "Phong Commune",
+                  "kh": "ឃុំ ផុង",
+                  "zipCode": "050206"
+               },
+               {
+                  "en": "Pou Angkrang Commune",
+                  "kh": "ឃុំ ពោធិ៍អង្រ្កង",
+                  "zipCode": "050207"
+               },
+               {
+                  "en": "Pou Chamraeun Commune",
+                  "kh": "ឃុំ ពោធិ៍ចំរើន",
+                  "zipCode": "050208"
+               },
+               {
+                  "en": "Pou Mreal Commune",
+                  "kh": "ឃុំ ពោធិ៍ម្រាល",
+                  "zipCode": "050209"
+               },
+               {
+                  "en": "Svay Chacheb Commune",
+                  "kh": "ឃុំស្វាយចចិប",
+                  "zipCode": "050210"
+               },
+               {
+                  "en": "Tuol Ampil Commune",
+                  "kh": "ឃុំ ទួលអំពិល",
+                  "zipCode": "050211"
+               },
+               {
+                  "en": "Tuol Sala Commune",
+                  "kh": "ឃុំ ទួលសាលា",
+                  "zipCode": "050212"
+               },
+               {
+                  "en": "Kak Commune",
+                  "kh": "ឃុំ កក់",
+                  "zipCode": "050213"
+               },
+               {
+                  "en": "svay Rumpear Commune",
+                  "kh": "ឃុំ ស្វាយរំពារ",
+                  "zipCode": "050214"
+               },
+               {
+                  "en": "Preah Khae Commune",
+                  "kh": "ឃុំ ព្រះខែ",
+                  "zipCode": "050215"
+               },
+               {
+                  "en": "Angk Popel Commune",
+                  "kh": "ឃុំ អង្គពពេល",
+                  "zipCode": "050301"
+               },
+               {
+                  "en": "Chongruk Commune",
+                  "kh": "ឃុំ ជង្រុក",
+                  "zipCode": "050302"
+               },
+               {
+                  "en": "Moha Ruessei Commune",
+                  "kh": "ឃុំ មហាឬស្សី",
+                  "zipCode": "050303"
+               },
+               {
+                  "en": "pechr Muni Commune",
+                  "kh": "ឃុំ ពេជ្រមុន្នី",
+                  "zipCode": "050304"
+               },
+               {
+                  "en": "Preah Nipean Commune",
+                  "kh": "ឃុំ ព្រះនិញ្វន",
+                  "zipCode": "050305"
+               },
+               {
+                  "en": "Prey Nheat Commune",
+                  "kh": "ឃុំ ព្រៃញាតិ",
+                  "zipCode": "050306"
+               },
+               {
+                  "en": "Prey Vihear Commune",
+                  "kh": "ឃុំ ព្រៃវិហារ",
+                  "zipCode": "050307"
+               },
+               {
+                  "en": "Roka Kaoh Commune",
+                  "kh": "ឃុំ កោកោះ",
+                  "zipCode": "050308"
+               },
+               {
+                  "en": "Sdok Commune",
+                  "kh": "ឃុំ ស្គុក",
+                  "zipCode": "050309"
+               },
+               {
+                  "en": "Snam Krapeu Commune",
+                  "kh": "ឃុំ ស្នំក្រពើ",
+                  "zipCode": "050310"
+               },
+               {
+                  "en": "Srang Commune",
+                  "kh": "ឃុំ ស្រង់",
+                  "zipCode": "050311"
+               },
+               {
+                  "en": "Tuek L'ak Commune",
+                  "kh": "ឃុំ ទឹកល្អក់",
+                  "zipCode": "050312"
+               },
+               {
+                  "en": "Veal Commune",
+                  "kh": "ឃុំ វាល",
+                  "zipCode": "050313"
+               },
+               {
+                  "en": "Chan Saen Commune",
+                  "kh": "ឃុំ ចាន់សែន",
+                  "zipCode": "050401"
+               },
+               {
+                  "en": "Cheung Roas Commune",
+                  "kh": "ឃុំ ជើងរាស់",
+                  "zipCode": "050402"
+               },
+               {
+                  "en": "Chumpu Proeks Commune",
+                  "kh": "ឃុំ ជំពូព្រឹក្ស",
+                  "zipCode": "050403"
+               },
+               {
+                  "en": "khsem Khsant Commune",
+                  "kh": "ឃុំ ក្សេមក្សាន្ត",
+                  "zipCode": "050404"
+               },
+               {
+                  "en": "Krang Chek Commune",
+                  "kh": "ឃុំ ក្រាំងចេក",
+                  "zipCode": "050405"
+               },
+               {
+                  "en": "Mean Chey Commune",
+                  "kh": "ឃុំ មានជ័យ",
+                  "zipCode": "050406"
+               },
+               {
+                  "en": "Preah Srae Commune",
+                  "kh": "ឃុំ ព្រះស្រែ",
+                  "zipCode": "050407"
+               },
+               {
+                  "en": "Prey Krasang Commune",
+                  "kh": "ឃុំ ព្រៃក្រសាំង",
+                  "zipCode": "050408"
+               },
+               {
+                  "en": "Trach Tong Commune",
+                  "kh": "ឃុំ ត្រាចទង",
+                  "zipCode": "050409"
+               },
+               {
+                  "en": "Veal pong Commune",
+                  "kh": "ឃុំ វាលពង់",
+                  "zipCode": "050410"
+               },
+               {
+                  "en": "Veang Chas Commune",
+                  "kh": "ឃុំ វាលចាស់",
+                  "zipCode": "050411"
+               },
+               {
+                  "en": "Yutth Sameakki Commune",
+                  "kh": "ឃុំ យុទ្ធសាមគ្កី",
+                  "zipCode": "050412"
+               },
+               {
+                  "en": "Damnak Reang Commune",
+                  "kh": "ឃុំ ដំណាក់រាំង",
+                  "zipCode": "050413"
+               },
+               {
+                  "en": "Peang Lvea Commune",
+                  "kh": "ឃុំ ពាំងល្វា",
+                  "zipCode": "050414"
+               },
+               {
+                  "en": "Phnom touch Commune",
+                  "kh": "ឃុំ ភ្នំតូច",
+                  "zipCode": "050415"
+               },
+               {
+                  "en": "Chambak Commune",
+                  "kh": "ឃុំ ចំបក់",
+                  "zipCode": "050501"
+               },
+               {
+                  "en": "Choam Sangkae Commune",
+                  "kh": "ឃុំ ជាំសង្កែ",
+                  "zipCode": "050502"
+               },
+               {
+                  "en": "Dambouk Rung Commune",
+                  "kh": "ឃុំ ដំបូករូង",
+                  "zipCode": "050503"
+               },
+               {
+                  "en": "Kiri Voan Commune",
+                  "kh": "ឃុំ គិរីវន្ដ",
+                  "zipCode": "050504"
+               },
+               {
+                  "en": "Krang Dei Vay Commune",
+                  "kh": "ឃុំ ក្រាំងដីវ៉ាយ",
+                  "zipCode": "050505"
+               },
+               {
+                  "en": "Moha Sang Commune",
+                  "kh": "ឃុំ មហាសាំង",
+                  "zipCode": "050506"
+               },
+               {
+                  "en": "Ou Commune",
+                  "kh": "ឃុំ អូរ",
+                  "zipCode": "050507"
+               },
+               {
+                  "en": "Prey Rumduol Commune",
+                  "kh": "ឃុំ ព្រៃរំដួល",
+                  "zipCode": "050508"
+               },
+               {
+                  "en": "Prey Kmeng Commune",
+                  "kh": "ឃុំ ព្រៃក្មេង",
+                  "zipCode": "050509"
+               },
+               {
+                  "en": "Tang Samraong Commune",
+                  "kh": "ឃុំ តាងសំរោង",
+                  "zipCode": "050510"
+               },
+               {
+                  "en": "Tang Sya Commune",
+                  "kh": "ឃុំ តាំងស្យា",
+                  "zipCode": "050511"
+               },
+               {
+                  "en": "Traeng Trayueng Commune",
+                  "kh": "ឃុំ ត្រែងត្រយឹង",
+                  "zipCode": "050512"
+               },
+               {
+                  "en": "Amleang Commune",
+                  "kh": "ឃុំ អមលាំង",
+                  "zipCode": "050601"
+               },
+               {
+                  "en": "Monourom Commune",
+                  "kh": "ឃុំ មនោរម្យ",
+                  "zipCode": "050602"
+               },
+               {
+                  "en": "Prambei Mum Commune",
+                  "kh": "ឃុំ ប្រាំបីមុម",
+                  "zipCode": "050603"
+               },
+               {
+                  "en": "Rung Roeang Commune",
+                  "kh": "ឃុំ រុងរឿង",
+                  "zipCode": "050604"
+               },
+               {
+                  "en": "Toap Mean Commune",
+                  "kh": "ឃុំ ទ័ពមាន",
+                  "zipCode": "050605"
+               },
+               {
+                  "en": "Veal Pong Commune",
+                  "kh": "ឃុំ វាលពន់",
+                  "zipCode": "050606"
+               },
+               {
+                  "en": "Yea Angk Commune",
+                  "kh": "ឃុំ យាអង្គ",
+                  "zipCode": "050607"
+               },
+               {
+                  "en": "Haong Samnam Commune",
+                  "kh": "ឃុំ ហោងសំណំ",
+                  "zipCode": "050701"
+               },
+               {
+                  "en": "Reaksmei Samekki Commune",
+                  "kh": "ឃុំ រស្មីសាមគ្គី",
+                  "zipCode": "050702"
+               },
+               {
+                  "en": "Trapeang Chour Commune",
+                  "kh": "ឃុំ ត្រពាំងជោ",
+                  "zipCode": "050703"
+               },
+               {
+                  "en": "Sangkae Satob Commune",
+                  "kh": "ឃុំ សង្កែសាទប",
+                  "zipCode": "050704"
+               },
+               {
+                  "en": "Ta Sal Commune",
+                  "kh": "ឃុំ តាសាល",
+                  "zipCode": "050705"
+               },
+               {
+                  "en": "Sangkat Chbar Mon",
+                  "kh": "សង្កាត់ ច្បារមន",
+                  "zipCode": "050801"
+               },
+               {
+                  "en": "sangkat Kandol Dom",
+                  "kh": "សង្កាត់ កណ្ដោលដុំ",
+                  "zipCode": "050802"
+               },
+               {
+                  "en": "Sangkat Rokar Thum",
+                  "kh": "សង្កាត់ រការធំ",
+                  "zipCode": "050803"
+               },
+               {
+                  "en": "Sangkat Sopoar Tap",
+                  "kh": "សង្កាត់ សុព័រទេព",
+                  "zipCode": "050804"
+               },
+               {
+                  "en": "Sangkat Svay kravan",
+                  "kh": "សង្កាត់ ស្វាយក្រវ៉ាន់",
+                  "zipCode": "050805"
+               }
+            ]
+         }
+      ]
+   }
+]
