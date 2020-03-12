@@ -3,8 +3,6 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 import json
 import codecs
-import time
-from selenium.webdriver.remote.webelement import WebElement
 
 base_url_kh = 'https://www.cambodiapost.post/page/postal-codes'
 base_url_en = 'https://www.cambodiapost.post/en/page/postal-codes'
