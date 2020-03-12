@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
+from selenium.common.exceptions import NoSuchElementException
 import json
 import codecs
 import time
@@ -27,7 +28,7 @@ for province_value in range(1, province_size + 1):
       toggle_value = province_value - 1
    city_dropdown_menu.select_by_value(str(toggle_value))
    city_dropdown_menu.select_by_value(str(province_value))
-   #Get all district for this city
+   # Get all district for this city
    district_dropdown_menu = chrome_driver.find_element_by_css_selector('select[name="district"]')
    district_values = []
    district_options = district_dropdown_menu.find_elements_by_css_selector('*')
@@ -38,36 +39,41 @@ for province_value in range(1, province_size + 1):
    button_search = chrome_driver.find_element_by_css_selector('form#form-post button[type="submit"]')
    for district_value in district_values:
       print('scrapping district id : ' + str(district_value))
-      distict_param = '&district=' + str(district_value)
-      district_dropdown_menu = chrome_driver.find_element_by_css_selector('select[name="district"]')
-      Select(district_dropdown_menu).select_by_value(district_value)
-      button_search = chrome_driver.find_element_by_css_selector('form#form-post button[type="submit"]')
-      button_search.click()
-      rows = chrome_driver.find_elements_by_css_selector('table tbody > tr')
-      for row in rows:
-         row_data = row.find_elements_by_css_selector('*') # get all td element inside tr
-         commune_data = {
-            'en': row_data[1].text,
-            'kh': row_data[0].text,
-            'zipCode': row_data[2].text
+      try:
+         distict_param = '&district=' + str(district_value)
+         district_dropdown_menu = chrome_driver.find_element_by_css_selector('select[name="district"]')
+         Select(district_dropdown_menu).select_by_value(district_value)
+         button_search = chrome_driver.find_element_by_css_selector('form#form-post button[type="submit"]')
+         button_search.click()
+         rows = chrome_driver.find_elements_by_css_selector('table tbody > tr')
+         for row in rows:
+            row_data = row.find_elements_by_css_selector('*')  # get all td element inside tr
+            commune_data = {
+               'en': row_data[1].text,
+               'kh': row_data[0].text,
+               'zipCode': row_data[2].text
+            }
+            communes.append(commune_data)
+         # get district name both en and kh
+         chrome_driver.get(base_url_kh + city_param + distict_param)
+         district_name_kh = chrome_driver.find_element_by_css_selector(
+            'select[name="district"] > option[selected="selected"]').text
+         chrome_driver.get(base_url_en + city_param + distict_param)
+         district_name_en = chrome_driver.find_element_by_css_selector(
+            'select[name="district"] > option[selected="selected"]').text
+         district_names = {
+            'en': district_name_en,
+            'kh': district_name_kh
          }
-         communes.append(commune_data)
-      #get district name both en and kh
-      chrome_driver.get(base_url_kh + city_param + distict_param)
-      district_name_kh = chrome_driver.find_element_by_css_selector('select[name="district"] > option[selected="selected"]').text
-      chrome_driver.get(base_url_en + city_param + distict_param)
-      district_name_en = chrome_driver.find_element_by_css_selector('select[name="district"] > option[selected="selected"]').text
-      district_names = {
-         'en': district_name_en,
-         'kh': district_name_kh
-      }
-      districts.append(
-         {
-            'districtName': district_names,
-            'commune': communes
-         }
-      )
-   #get city name both en and kh
+         districts.append(
+            {
+               'districtName': district_names,
+               'commune': communes
+            }
+         )
+      except NoSuchElementException:
+         print('Scrapping error -> \n' + str(NoSuchElementException))
+   # get city name both en and kh
    chrome_driver.get(base_url_en + city_param)
    province_name_en = chrome_driver.find_element_by_css_selector('#city > option[selected="selected"]').text
    chrome_driver.get(base_url_kh + city_param)
