@@ -1,0 +1,26 @@
+{
+	"province": {
+		"en": "phnom penh",
+		"kh": "ភ្នំពេញ"
+	},
+	"district": [
+		{
+			"districtName": {
+				"en": "tk",
+				"kh": "តាកែវ"
+			},
+			"commune": [
+				{
+					"en": "sensok",
+					"kh": "សដថាសដថ",
+					"zipCode": 23423
+				},
+				{
+					"en": "sensok",
+					"kh": "សដថាសដថ",
+					"zipCode": 23423
+				}
+			]
+	 	}
+	]	
+}
