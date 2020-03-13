@@ -16,7 +16,6 @@ all_data = []
 for province_value in range(1, province_size + 1):
    district_names = {}
    districts = []
-   communes = []
    city_param = '?city=' + str(province_value)
    scrape_url = base_url_kh + city_param
    chrome_driver.get(scrape_url)
@@ -36,7 +35,8 @@ for province_value in range(1, province_size + 1):
    # loop through district and get all communes for each district.
    button_search = chrome_driver.find_element_by_css_selector('form#form-post button[type="submit"]')
    for district_value in district_values:
-      print('scrapping district id : ' + str(district_value))
+      print('scraping district id : ' + str(district_value))
+      communes = []
       try:
          distict_param = '&district=' + str(district_value)
          district_dropdown_menu = chrome_driver.find_element_by_css_selector('select[name="district"]')
